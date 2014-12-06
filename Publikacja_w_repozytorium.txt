@@ -1,7 +1,7 @@
 Publikacja nr 1
 
 Tytul: Publikacja o fizyce
-Autor: Aleksandra Pawlik
+Autor: Aleksandra Pawlik i Janek Kowalski 
 
 Abstrakt
 Do napisania pozniej 
@@ -9,5 +9,6 @@ Do napisania pozniej
 Dane 
 Analiza 
 Wnioski 
+(To napisze Janek) 
 
 Bibliografia
